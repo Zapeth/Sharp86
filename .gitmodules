@@ -1,13 +1,8 @@
 [submodule "PetaJson"]
 	path = PetaJson
-	url = git@github.com:toptensoftware/PetaJson.git
-	branch = master
-[submodule "conframes"]
-	path = conframes
-	url = git@bitbucket.org:toptensoftware/conframes.git
-	branch = master
+	url = https://github.com/toptensoftware/JsonKit.git
+	branch = classic
 [submodule "ConFrames"]
 	path = ConFrames
-	url = git@bitbucket.org:toptensoftware/ConFrames.git
+	url = https://bitbucket.org/toptensoftware/conframes.git
 	branch = master
-	
